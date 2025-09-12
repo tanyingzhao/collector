@@ -236,7 +236,7 @@
 					</label>
 				</div>
 				<div>
-					<a href="https://github.com/wefantasy/collector" target="_blank" aria-label="github" class="ms-3 flex items-center">
+					<a href="https://github.com/tanyingzhao/collector" target="_blank" aria-label="github" class="ms-3 flex items-center">
 						<span class="icon-[octicon--mark-github-24]" style="width: 30px; height: 30px;"></span>
 					</a>
 				</div>
@@ -376,8 +376,8 @@
 
 	<div class="mt-4 rounded-lg">
 		<div class="text-center">
-			© 2025 <a href="https://github.com/wefantasy/collector" target="_blank" aria-label="github" class="link-hover link link-primary">collector</a>, Design by
-			<a href="https://github.com/wefantasy" target="_blank" aria-label="github" class="link-hover link link-primary">wefantasy</a>
+			© 2025 <a href="https://github.com/tanyingzhao/collector" target="_blank" aria-label="github" class="link-hover link link-primary">collector</a>, Design by
+			<a href="https://github.com/tanyingzhao" target="_blank" aria-label="github" class="link-hover link link-primary">tanyingzhao</a>
 		</div>
 	</div>
 </div>
